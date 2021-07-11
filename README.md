@@ -4,7 +4,7 @@
 
 I am a last-year Software Development Engineering student, focusing on Front-End Web Development using technologies like HTML, CSS, JavaScript, and its frameworks. Basic UX-UI Knowledge and some experience with Figma and Adobe XD.
 
-Skills: HTML / CSS / JS / REACT / TAILWIND
+Skills: HTML / CSS / JS / REACT - ANGULAR / TAILWIND -BOOTSTRAP
 
 
 
