@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Donato
 #### I am Frontend Developer
-![I am Frontend Developer](./webDeveloper.jpg)
+![I am Frontend Developer](./WebDev.jpg)
 
 I am a last-year Software Development Engineering student, focusing on Front-End Web Development using technologies like HTML, CSS, JavaScript, and its frameworks. Basic UX-UI Knowledge and some experience with Figma and Adobe XD.
 
