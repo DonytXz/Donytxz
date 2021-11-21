@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Donato
 #### I am Frontend Developer
-![I am Frontend Developer](https://media-exp1.licdn.com/dms/image/C5616AQELnCqPjtxwOw/profile-displaybackgroundimage-shrink_350_1400/0/1619828834469?e=1631750400&v=beta&t=TjRZ349toHUjQEy7mbevhenLg2c8e3ikUWMfEInLksQ)
+![I am Frontend Developer](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.parzlogic.com%2Fwp-content%2Fuploads%2F2017%2F10%2Fweb-dev.jpg&imgrefurl=http%3A%2F%2Fwww.parzlogic.com%2Fweb-development%2F&tbnid=sXKg4JLq2tFYqM&vet=12ahUKEwji9JyfnKr0AhWLVKwKHQSOAvsQMygCegUIARC0AQ..i&docid=wbddeZ4lI6YgTM&w=2028&h=1152&q=web%20developer&ved=2ahUKEwji9JyfnKr0AhWLVKwKHQSOAvsQMygCegUIARC0AQ)
 
 I am a last-year Software Development Engineering student, focusing on Front-End Web Development using technologies like HTML, CSS, JavaScript, and its frameworks. Basic UX-UI Knowledge and some experience with Figma and Adobe XD.
 
