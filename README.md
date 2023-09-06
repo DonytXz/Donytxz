@@ -2,7 +2,11 @@
 #### I am Frontend Developer
 ![I am Frontend Developer](./WebDev.jpg)
 
-I am a last-year Software Development Engineering student, focusing on Front-End Web Development using technologies like HTML, CSS, JavaScript, and its frameworks. Basic UX-UI Knowledge and some experience with Figma and Adobe XD.
+Software engineer.
+- 3 years of experience working as a Frontend Developer.
+- 1 year of experience on the backend with node and PHP.
+
+I am deeply interested in all things technology, as well as new developments in the area, and consider myself to have a self-taught literacy.
 
 Skills: HTML / CSS / JS / REACT - ANGULAR / TAILWIND - BOOTSTRAP
 
