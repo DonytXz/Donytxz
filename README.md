@@ -3,8 +3,8 @@
 ![I am Frontend Developer](./WebDev.jpg)
 
 Software engineer.
-- 3 years of experience working as a Frontend Developer.
-- 1 year of experience on the backend with node and PHP.
+- 4 years of experience working as a Frontend Developer.
+- 1 year of experience on the backend side with Node and PHP.
 
 I am deeply interested in all things technology, as well as new developments in the area, and consider myself to have a self-taught literacy.
 
