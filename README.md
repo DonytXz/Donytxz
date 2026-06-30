@@ -10,7 +10,7 @@ stack capabilities across Node.js, .NET, PHP, Java, and cloud platforms (AWS, Az
 
 I am deeply interested in all things technology, as well as new developments in the area, and consider myself to have a self-taught literacy.
 
-Skills: HTML - CSS / JavaScript - TypeScript / Angular - React.js - Vue / Tailwind - Bootstrap - SASS - LESS - PostCSS / Java - JSP / C#- .NET / - Node.js - Express.js /  PHP  - Laravel
+Skills: HTML - CSS / JavaScript - TypeScript / Angular - React.js - Vue / Tailwind - Bootstrap - SASS - LESS - PostCSS / Java - JSP / C#- .NET / Node.js - Express.js /  PHP  - Laravel
 
 [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/DonytXz) [<img src='https://img.icons8.com/cotton/452/website.png' alt='website' height='40'>](https://donytxz.github.io/Bit/)  [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/donatoalvarezdev/) 
 
