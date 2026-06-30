@@ -5,7 +5,7 @@
 Software engineer with a B.S. in IT and 6 years of experience specializing in frontend architecture (Angular, 
 React, Vue.js) and complex data visualization. Delivers scalable, high-performance web applications with versatile full
 stack capabilities across Node.js, .NET, PHP, Java, and cloud platforms (AWS, Azure). 
-- [Azure Administrator Associate certificate](https://drive.google.com/file/d/1giR2itR0H6aWf5n6Firhye2JBLk9XLF9/view) & AWS Cloud Practitioner training(TCS Wings 2 Program) and hands-on experience (S3, EC2, etc).
+- [Azure Administrator Associate certificate](https://drive.google.com/file/d/1giR2itR0H6aWf5n6Firhye2JBLk9XLF9/view) & AWS Cloud Practitioner training (TCS Wings 2 Program) and hands-on experience (S3, EC2, etc).
 - [AWS Certified AI Practitioner (AIF-C01)](https://drive.google.com/file/d/1O9pgxVxBnf0wQVuoH7ALok_tYEAjP5Fc/view) AWS Partner Preparation course
 
 I am deeply interested in all things technology, as well as new developments in the area, and consider myself to have a self-taught literacy.
