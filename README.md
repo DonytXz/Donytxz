@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Donato
+### Hi there 👋, my name is Donato Alvarez
 #### I am Senior Software Engineer with focuss on Frontend with Angular & React.js
 ![I am Frontend Developer](./WebDev.jpg)
 
