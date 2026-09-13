@@ -14,4 +14,4 @@ Skills: HTML - CSS / JavaScript - TypeScript / Angular - React.js - Vue / Tailwi
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DonytXz&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=DonytXz&include_all_commits=true&theme=transparent)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DonytXz&layout=compact&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=DonytXz&layout=compact&langs_count=10&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DonytXz&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=DonytXz&layout=compact&langs_count=6&theme=transparent)
