@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Donato Alvarez
 #### I am Senior Software Engineer with focuss on Frontend with Angular & React.js
-![I am Frontend Developer](./WebDev.jpg)
 
 Software engineer with a B.S. in IT and 6 years of experience specializing in frontend architecture (Angular, 
 React, Vue.js) and complex data visualization. Delivers scalable, high-performance web applications with versatile full
