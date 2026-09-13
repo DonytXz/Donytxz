@@ -1,6 +1,7 @@
 # Hi there 👋, my name is Donato Alvarez
 
 **Senior Software Engineer | Focus on Frontend with Angular & React.js**
+
  [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/donatoalvarezdev/) 
  [<img src='https://img.icons8.com/cotton/452/website.png' alt='website' height='40'>](https://donatoalvarez.dev/) 
 
