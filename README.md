@@ -12,6 +12,6 @@ Skills: HTML - CSS / JavaScript - TypeScript / Angular - React.js - Vue / Tailwi
 
 [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/DonytXz) [<img src='https://img.icons8.com/cotton/452/website.png' alt='website' height='40'>](https://donytxz.github.io/Bit/)  [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/donatoalvarezdev/) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donytxz)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DonytXz&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=DonytXz&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)
 
 ![Profile views](https://gpvc.arturio.dev/DonytXz)  
