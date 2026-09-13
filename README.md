@@ -4,11 +4,11 @@
  
 #### I am Senior Software Engineer with focuss on Frontend with Angular & React.js
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DonytXz&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=DonytXz&include_all_commits=true&theme=transparent)
-
 Software engineer with a B.S. in IT and 6 years of experience specializing in frontend architecture (Angular, 
 React, Vue.js) and complex data visualization. Delivers scalable, high-performance web applications with versatile full
 stack capabilities across Node.js, .NET, PHP, Java, and cloud platforms (AWS, Azure). 
+
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DonytXz&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=DonytXz&include_all_commits=true&theme=transparent)
  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DonytXz&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=DonytXz&layout=compact&langs_count=6&theme=transparent)
 
