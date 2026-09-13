@@ -1,19 +1,22 @@
-### Hi there 👋, my name is Donato Alvarez
+# Hi there 👋, my name is Donato Alvarez
+
+**Senior Software Engineer | Focus on Frontend with Angular & React.js**
  [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/donatoalvarezdev/) 
  [<img src='https://img.icons8.com/cotton/452/website.png' alt='website' height='40'>](https://donatoalvarez.dev/) 
- 
-#### I am Senior Software Engineer with focuss on Frontend with Angular & React.js
 
+### 👨‍💻 About Me
 Software engineer with a B.S. in IT and 6 years of experience specializing in frontend architecture (Angular, 
 React, Vue.js) and complex data visualization. Delivers scalable, high-performance web applications with versatile full
 stack capabilities across Node.js, .NET, PHP, Java, and cloud platforms (AWS, Azure). 
 
+I am deeply interested in all things technology, as well as new developments in the area, and consider myself to have a self-taught literacy.
+
+### 📊 GitHub Analytics
  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DonytXz&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=DonytXz&include_all_commits=true&theme=transparent)
  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DonytXz&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=DonytXz&layout=compact&langs_count=6&theme=transparent)
 
-I am deeply interested in all things technology, as well as new developments in the area, and consider myself to have a self-taught literacy.
-
+### 🏆 Certifications & Badges
 <!--START_SECTION:badges-->
 [![Google AI Essentials](https://images.credly.com/size/80x80/images/344a1136-8a12-4cd7-983a-5f7a13a438f9/image.png)](https://www.credly.com/badges/1878bd2c-2f09-45e6-a81a-3056ff259402)
 [![Enterprise Apps with React](https://images.credly.com/size/80x80/images/ab4588f4-ed84-4a69-9953-dce9e8bfbc70/c6bdbe10-7d2e-4993-8adb-35ca373bfe61.png)](https://www.credly.com/badges/7a99899f-895b-46cf-8b11-c8b4d2f92091)
