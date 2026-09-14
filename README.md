@@ -25,6 +25,8 @@ I am deeply interested in all things technology, as well as new developments in 
 [![Cloud Computing Core](https://images.credly.com/size/80x80/images/d6fd25e3-6a23-48b2-94ab-d2961375555d/image.png)](https://www.credly.com/badges/dce3bb43-a7c2-463d-b10a-5723f15b3b81)
 [![Google AI Essentials V1](https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/76cd4557-8db4-40c8-9052-4d8292ec11a0)
 [![CCNA 200-301 V1.1 Crash Course](https://images.credly.com/size/80x80/images/a5693b96-9568-4361-b6d2-89d62dc5067c/e422c18f-3591-4915-bd0b-cb37777db359.png)](https://www.credly.com/badges/b19a74cd-fcb9-4212-975b-5ebd190ab498)
-[![Microservices Bootcamp](https://images.credly.com/size/80x80/images/00075fe6-c1fc-459c-89b1-5d5ba0b474b7/41476a12-c16e-48d2-86b4-6a92fed23b8d.png)](https://www.credly.com/badges/cc0c961d-8bf6-4a15-858c-25efb35ef99e)
+[![Microservices Bootcamp](https://images.credly.com/size/80x80/images/a07e1128-2f35-44f0-b55d-0b3180a8f83b/41476a12-c16e-48d2-86b4-6a92fed23b8d.png)](https://www.credly.com/badges/cc0c961d-8bf6-4a15-858c-25efb35ef99e)
 [![Lifelong Learning](https://images.credly.com/size/80x80/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](https://www.credly.com/badges/71e895cd-37c6-420d-9926-93de391ef4ae)
+[![Cybersecurity Essentials](https://images.credly.com/size/80x80/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/839f7dd2-83f3-4427-a389-4c6169e62914)
+[![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/0bbcf960-4c7b-4c59-87a4-fb6f48dc586f)
 <!--END_SECTION:badges-->
