@@ -19,6 +19,7 @@ I am deeply interested in all things technology, as well as new developments in 
 
 ### 🏆 Certifications & Badges
 <!--START_SECTION:badges-->
+[![MongoDB Overview: Core Concepts and Architecture](https://images.credly.com/size/80x80/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob)](https://www.credly.com/badges/ac1f4d5c-d5fb-493f-a6b6-42c45b44dbc6)
 [![Google AI Essentials](https://images.credly.com/size/80x80/images/344a1136-8a12-4cd7-983a-5f7a13a438f9/image.png)](https://www.credly.com/badges/1878bd2c-2f09-45e6-a81a-3056ff259402)
 [![Enterprise Apps with React](https://images.credly.com/size/80x80/images/ab4588f4-ed84-4a69-9953-dce9e8bfbc70/c6bdbe10-7d2e-4993-8adb-35ca373bfe61.png)](https://www.credly.com/badges/7a99899f-895b-46cf-8b11-c8b4d2f92091)
 [![Linux Troubleshooting](https://images.credly.com/size/80x80/images/579e9fcf-f9d1-4e07-95f5-d59adc1b4e32/669d0663-7062-4c61-aab5-4a1f9e9d2201.png)](https://www.credly.com/badges/b196d366-8719-4ff8-84b5-7d8bcae2af7c)
@@ -27,5 +28,4 @@ I am deeply interested in all things technology, as well as new developments in 
 [![CCNA 200-301 V1.1 Crash Course](https://images.credly.com/size/80x80/images/a5693b96-9568-4361-b6d2-89d62dc5067c/e422c18f-3591-4915-bd0b-cb37777db359.png)](https://www.credly.com/badges/b19a74cd-fcb9-4212-975b-5ebd190ab498)
 [![Microservices Bootcamp](https://images.credly.com/size/80x80/images/a07e1128-2f35-44f0-b55d-0b3180a8f83b/41476a12-c16e-48d2-86b4-6a92fed23b8d.png)](https://www.credly.com/badges/cc0c961d-8bf6-4a15-858c-25efb35ef99e)
 [![Cybersecurity Essentials](https://images.credly.com/size/80x80/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/839f7dd2-83f3-4427-a389-4c6169e62914)
-[![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/0bbcf960-4c7b-4c59-87a4-fb6f48dc586f)
 <!--END_SECTION:badges-->
