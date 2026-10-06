@@ -18,3 +18,31 @@ jobs:
         with:
           CREDLY_USER: donatoalvarezdev # Uses your GitHub username
           NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Enforce 80x80 Badge Dimensions
+        run: |
+          git pull
+          python3 -c '
+          import re
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+          def to_html(m):
+              title, img, href = m.group(1), m.group(2), m.group(3)
+              return f"<a href=\"{href}\"><img src=\"{img}\" alt=\"{title}\" width=\"80\" height=\"80\" /></a>"
+          def fix_badges(match):
+              badges_block = match.group(1)
+              matches = list(re.finditer(r"\[\!\[(.*?)\]\((.*?)\)\]\((.*?)\)", badges_block))
+              if not matches:
+                  return match.group(0)
+              html_badges = " ".join([to_html(m) for m in matches])
+              return f"<!--START_SECTION:badges-->\n{html_badges}\n<!--END_SECTION:badges-->"
+          new_content = re.sub(r"<!--START_SECTION:badges-->(.*?)<!--END_SECTION:badges-->", fix_badges, content, flags=re.DOTALL)
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+          '
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git commit -am "Enforce 80x80 badge sizing" && git push)
